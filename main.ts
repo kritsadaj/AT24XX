@@ -8,7 +8,7 @@
  * AT24CXX block
  */
 //% weight=100 color=#303030 icon="\uf2db" block="AT24CXX"
-namespace AT24CXX {
+namespace AT24C256 {
     let AT24_I2C_ADDR = 80;
 
     /**
